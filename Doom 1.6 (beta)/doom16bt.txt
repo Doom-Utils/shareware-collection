@@ -1,0 +1,8 @@
+Here it is -- the v1.6 Beta of DOOM.
+
+This should be the final sound code revision.  We fixed some small bugs, but the major problem was the sound code.  Any problems that you have, please direct them to help@idsoftware.com.  Do it soon as we are anxious to release the patches for the shareware & registered versions -- BUT ONLY IF THE SOUND CODE IS SOLID.  Oh, help us.
+
+Read the README!
+
+John Romero
+id Software, inc.

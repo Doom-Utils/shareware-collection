@@ -1,0 +1,14 @@
+= Shareware collection
+
+Unpacked and ready-to-play versions of all the id Tech 1 shareware or
+demo versions.  This repository was born out of a request to include
+downgrade patches in
+https://github.com/Doom-Utils/iwad-patches[iwad-patches], but it’s
+probably even easier to just have directories to copy to whatever DOS
+environment you want, or use the IWADs.
+
+Refer to the https://doomwiki.org/wiki/Shareware[shareware page on
+Doom Wiki] for links to all the original installers.
+
+Use GitHub’s green "clone or download” button to get a Zip file
+version of the contents of this repository.

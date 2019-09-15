@@ -1,0 +1,39 @@
+Thanks for carrying DOOM on your BBS. 
+
+Archive Filename:
+We prefer you give DOOM a filename of DOOM1666.ZIP.  
+
+Archive Separation:
+
+To help make your life easier we are providing our games in a
+format that is easy for you to divide into smaller downloadable
+chunks and still be simple for the user to install.  
+
+Extract all the files from the BIG archive and separate them as
+detailed:
+
+Archive 1: DOOM16-1.ZIP
+FILE_ID.DIZ 
+INSTALL.BAT 
+DEICE.EXE
+*.DAT
+*.1
+
+Archive 2: DOOM16-2.ZIP
+FILE_ID.DIZ (last line modified to read disk 2/x)
+*.2
+
+and so on.
+
+When finished be sure to copy the FILE_ID.DIZ to each archive
+and modify it so the last line reflects what number disk the
+archive is.
+
+If you are interested in becoming a member of the id Software
+electronic distribution system please drop a note to Dan Linton
+(SYSOP) at Software Creations BBS (any speed modem 508-368-4137).
+
+
+
+
+
